@@ -1,0 +1,56 @@
+{
+    "Items": [
+      {
+          "title": {
+            "es": "La Casa de Papel",
+            "pt": "A Casa de Papel",
+            "en": "The House Of Paper"
+          },
+            "directors": [
+              "Álex Pina",
+              "Sonia Martínez",
+              "Jesús Colmenar",
+              "Esther Martínez Lobato",
+              "Nacho Manubens"
+            ],
+            "overview": {
+              "es": "La Casa de Papel narra lo que se espera que sea el atraco perfecto al Museo de la Fábrica Nacional de Moneda y Timbre.",
+              "pt": "A Casa do Papel conta o que se espera que seja o roubo perfeito no Museu Nacional da Casa da Moeda e Doorbell.",
+              "en": "The Paper House tells what is expected to be the perfect robbery at the National Mint and Doorbell Museum."
+            },
+            "state": "Publicado",
+            "banner": "https://sm.ign.com/ign_es/screenshot/default/913028_uem5.jpg",
+            "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/casa-papel-temporada-3-1563559968.jpeg",
+            "ageRating": "+18",
+            "isGroup": false,
+          "access": {
+              "isFree": true,
+              "isPpv": false,
+              "isExchangable": false
+            },
+            "getPoints": 1000,
+            "givePoints": 0,
+            "onDemandContentType": "Video",
+          "isMovie": false,
+          "duration": 9000,
+            "isFeatured": true,
+            "season": "1",
+            "chapter": "1",
+            "source": "source",
+            "audio": {
+              "es": "ES",
+              "pt": "PT",
+              "en": "EN"
+            },
+            "subtitles": {
+              "es": "ES",
+              "pt": "PT",
+              "en": "EN"
+            },
+            "videoStartTime": "10",
+            "creditsStartTime": 8000
+      }
+    ],
+    "Count": 1,
+    "ScannedCount": 1
+}
